@@ -13,11 +13,18 @@ p{
     font-size: 14px;
     font-weight: 400; 
 }
+.section{
+    height: 500px;
+    
+}
 .half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+}
+.top-banner{
+    background-image: url("images/test.png");
 }
 .half-width img{
     width: 100%;

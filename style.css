@@ -23,10 +23,8 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 200px;
+   
 }
-
-
 .half-width{
     width: 40%;
     float: left;
@@ -36,6 +34,7 @@ section{
 .top-banner-section{
     background: url("./images/bg.png");
     background-repeat: no-repeat;
+    margin-bottom: 200px;
 }
 .half-width img{
     width: 100%;
@@ -46,18 +45,21 @@ section{
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
-    font-weight: 700;  
+    font-weight: 700; 
+    
 }
 .dream-section{
     background-image: url("./images/Group\ 9.png");
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 200px;
 }
 
 .experience-section{
     background-image: url(./images/Group\ 10.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 15px;
 }
 .experience-more{
     box-shadow: 10px 10px 40px gray;
